@@ -1,2 +1,2 @@
-# simple-webpage
-An example of a very simple web page (used for instructional purposes)
+# Simple Webpage
+An example of a very simple web page, used for instructional purposes.
